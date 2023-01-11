@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32819.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DXCTest", "DXCTest\DXCTest.csproj", "{B8FE245A-28BF-455C-8444-584BC28BC0EB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B8FE245A-28BF-455C-8444-584BC28BC0EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8FE245A-28BF-455C-8444-584BC28BC0EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8FE245A-28BF-455C-8444-584BC28BC0EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8FE245A-28BF-455C-8444-584BC28BC0EB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EA624960-0C51-4216-BAB7-09E7D9717057}
+	EndGlobalSection
+EndGlobal
